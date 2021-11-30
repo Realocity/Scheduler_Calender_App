@@ -1,4 +1,4 @@
-# schedulerx
+# scheduler calender app
 
 A new Flutter project.
 
